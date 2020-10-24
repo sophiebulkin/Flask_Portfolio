@@ -9,47 +9,10 @@ def home():
     #Flask import uses Jinga to render HTML
     return render_template("home.html")
 
-
-@app.route('/journals/sophiecarter/')
-def scjournal():
-    #Flask import uses Jinga to render HTML
-    return render_template("scjournal.html")
-
-@app.route('/journals/aditimustafayazhisai/')
-def amyjournal():
-    #Flask import uses Jinga to render HTML
-    return render_template("amyjournal.html")
-
-
-@app.route('/journals/')
+@app.route('/aboutus/')
 def journal():
     #Flask import uses Jinga to render HTML
-    return render_template("scjournal.html")
-
-@app.route('/aboutus/carter/')
-def aucarter():
-    #Flask import uses Jinga to render HTML
-    return render_template("carter.html")
-
-@app.route('/aboutus/aditi/')
-def auaditi():
-    #Flask import uses Jinga to render HTML
-    return render_template("aditi.html")
-
-@app.route('/aboutus/isai/')
-def auisai():
-    #Flask import uses Jinga to render HTML
-    return render_template("aditi.html")
-
-@app.route('/aboutus/sophie/')
-def ausophie():
-    #Flask import uses Jinga to render HTML
-    return render_template("sophie.html")
-
-@app.route('/aboutus/mustafa/')
-def aumustafa():
-    #Flask import uses Jinga to render HTML
-    return render_template("mustafa.html")
+    return render_template("aboutus.html")
 
 
 if __name__ == "__main__":
