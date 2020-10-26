@@ -1,3 +1,12 @@
+# Link to GitHub Repository
+[Github Repository Link] (https://github.com/1855532/Flask_Portfolio/invitations)
+#One Minute Video Link
+[One Minute Video Link] (https://drive.google.com/file/d/1xwdI6g1s4PzRcORxIpCJNbdLk-hz1GHe/view?usp=sharing)
+#Instructions on Operating our Website
+* Click the run button and click on the icon that will open the website in a new tab
+* Next, Explore the navigation bar on which we have linked our journals, About Us page, and Contents of Our Website page.
+Next, Scroll to the bottom of our home page and click on the buttons underneath eack project. We have linked our project scope, repl.it link, and resources used for each project.
+
 # Flask Portfolio
  This group website will be a reflection of our work over the trimester and it will contain all projects from this trimester. This website is meant to be a user friendly interface to our group's work in Computer Science. This is our first website that shows our progress throughout the year. It is similar to a Canvas page, which was our goal.
 
