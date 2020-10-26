@@ -42,7 +42,7 @@ We initially downloaded intelliJ because Repl.it was causing problems. We downlo
 We used flask to make our website and had many app.routes to bring you to the new homepages
 
 ## Map of Provided Code to AP CSA requirements
-[Computer Science Principlse Course Cpnten description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a)
+[Computer Science Principlse Course Content description pages 19, 20, 21](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a)
 
 
 ## Authors
