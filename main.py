@@ -2,7 +2,6 @@ from flask import Flask, render_template
 #create a Flask instance
 app = Flask(__name__)
 
-
 #connects default URL to a function
 @app.route('/')
 def home():
@@ -13,6 +12,11 @@ def home():
 def journal():
     #Flask import uses Jinga to render HTML
     return render_template("aboutus.html")
+
+@app.route('/contents/')
+def contents():
+    #Flask import uses Jinga to render HTML
+    return render_template("contents.html")
 
 
 if __name__ == "__main__":
