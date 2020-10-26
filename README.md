@@ -28,11 +28,11 @@ Here is overview of files for the "Flask Portfolio":
 * Contents: Link in the navbar/website that brings the user to a page giving an overview of what is contained within our website.
 
 # What We All Did
-*Sophie: For this project, I was assigned to do the about us page. for the about us page, I did the layout and added the pictures. 
-*Carter: I worked on the navbar and the app routes for the different links within our html project. At first this seemed like a tough task but with some help I was able to complete it.
-*Mustafa: I finished a large majority of the README file and I filled out the aboutus section. I cleaned up the code, mainly in the templates. Finishing the README helped me better understand the code.
-*Yazhisai: I experimented a lot with how to add backgrounds. At first, I thought we could use ascii art for the background. However, I realized that .html tries to conserve as much space as possible so this wasn't a viable option. I inserted an image at the top of the website that fitted the aesthetics of the website and sized it to fit correctly. I also added a file "Contents of Our Website" that outlines everything in the website for users.
-*Aditi: I created the about us page and formatted it. Along with Carter, I created a Navbar and added all the links. I also formatted the home page and added all the links to the projects, repl.its and resources.
+* Sophie: For this project, I was assigned to do the about us page. for the about us page, I did the layout and added the pictures. 
+* Carter: I worked on the navbar and the app routes for the different links within our html project. At first this seemed like a tough task but with some help I was able to complete it.
+* Mustafa: I finished a large majority of the README file and I filled out the aboutus section. I cleaned up the code, mainly in the templates. Finishing the README helped me better understand the code.
+* Yazhisai: I experimented a lot with how to add backgrounds. At first, I thought we could use ascii art for the background. However, I realized that .html tries to conserve as much space as possible so this wasn't a viable option. I inserted an image at the top of the website that fitted the aesthetics of the website and sized it to fit correctly. I also added a file "Contents of Our Website" that outlines everything in the website for users.
+* Aditi: I created the about us page and formatted it. Along with Carter, I created a Navbar and added all the links. I also formatted the home page and added all the links to the projects, repl.its and resources.
  
 ##  Usage of GitHub
 We used GitHub to share our code and make adjustments without risking our main file. 
